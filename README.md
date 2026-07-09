@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://jasonpw.web.id/favicon.ico" width="150" alt="JPW Logo" title="Jason Pw Logo">
+  <img src="favicon.ico" width="150" alt="JPW Logo" title="Jason Pw Logo">
 </p>
 
 <h1 align="center">Hi there, I'm Jason Pw! 👋</h1>
