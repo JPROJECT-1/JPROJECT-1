@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jason Pw! 👋</h1>
-<h3 align="center">Full-Stack Web & Game Developer | Co-Founder of YCYL STUDIO</h3>
+<h3 align="center">Full-Stack Web & Game Developer</h3>
 
 <p align="center">
   Passionate about building functional web systems, modern UI designs, and high-speed interactive game experiences. 
