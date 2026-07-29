@@ -22,43 +22,13 @@
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,tailwind,bootstrap,nodejs" alt="Web Dev Stack">
   <br><br>
   <!-- Game Dev & Design Tools -->
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=unity" title="Unity" alt="Unity" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=threejs" title="Three.js" alt="Three.js" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=blender" title="Blender" alt="Blender" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=ps" title="Photoshop" alt="Photoshop" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=pr" title="Premiere Pro" alt="Premiere Pro" width="48" height="48">
-  <img src="https://skillicons.dev/icons?i=ae" title="After Effects" alt="After Effects" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=cs,unity,threejs,git,github,figma,blender,ps,pr,ae" alt="Game Dev Tools">
 </p>
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://jasonpw.web.id">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#10B981" alt="Portfolio">
-  </a>
-  <a href="https://ycylstudio.web.id/">
-    <img src="https://img.shields.io/badge/YCYL_Studio-%23121C35.svg?style=for-the-badge&logo=peertube&logoColor=white" alt="YCYL Studio">
-  </a>
-  <a href="mailto:jpwprojects1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://youtube.com/@JasonPwChannel">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.tiktok.com/@jasonpwyt">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
-  </a>
+  <a href="https://jasonpw.web.id"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#10B981" alt="Portfolio"></a> <a href="https://ycylstudio.web.id/"><img src="https://img.shields.io/badge/YCYL_Studio-%23121C35.svg?style=for-the-badge&logo=peertube&logoColor=white" alt="YCYL Studio"></a> <a href="mailto:jpwprojects1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://youtube.com/@JasonPwChannel"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a> <a href="https://www.tiktok.com/@jasonpwyt"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"></a>
 </p>
